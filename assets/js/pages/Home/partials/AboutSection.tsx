@@ -14,7 +14,7 @@ const AboutSection: FC = () => {
         <div className="p-4 max-w-[412px] mx-auto rounded-full  bg-[url('/images/gradient.png')] bg-cover bg-center shrink-0 sm:w-[290px] lg:mx-0 lg:col-span-6 lg:w-full">
           <img
             className="w-full"
-            src="/images/nick-about.png"
+            src="./images/nick-about.png"
             alt="Nick trying to look cool"
           />
         </div>
@@ -41,7 +41,7 @@ const AboutSection: FC = () => {
             <li className="grid grid-rows-subgrid grid-cols-subgrid row-span-2 col-span-full items-center gap-y-1 sm:gap-y-2">
               <img
                 className="row-span-2 sm:w-[60px]"
-                src="/images/interests/music.svg"
+                src="./images/interests/music.svg"
                 width="44"
                 height="44"
                 alt=""
@@ -54,7 +54,7 @@ const AboutSection: FC = () => {
             <li className="grid grid-rows-subgrid grid-cols-subgrid row-span-2 col-span-full items-center gap-y-1 sm:gap-y-2">
               <img
                 className="row-span-2 sm:w-[60px]"
-                src="/images/interests/art.svg"
+                src="./images/interests/art.svg"
                 width="44"
                 height="44"
                 alt=""
@@ -65,7 +65,7 @@ const AboutSection: FC = () => {
             <li className="grid grid-rows-subgrid grid-cols-subgrid row-span-2 col-span-full items-center gap-y-1 sm:gap-y-2">
               <img
                 className="row-span-2 sm:w-[60px]"
-                src="/images/interests/photography.svg"
+                src="./images/interests/photography.svg"
                 width="44"
                 height="44"
                 alt=""

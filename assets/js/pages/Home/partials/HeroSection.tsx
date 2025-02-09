@@ -25,7 +25,7 @@ const HeroSection: FC = () => {
         <div className="relative z-0 -mt-10 flex h-[304px] sm:h-[440px] sm:m-0 lg:col-span-7 lg:h-[700px]">
           <img
             className="h-[365px] absolute right-[-200px] max-w-none ml-auto sm:-bottom-12 sm:right-[-370px] sm:h-[100%] md:right-[-300px]"
-            src="/images/nick.png"
+            src="./images/nick.png"
             alt="Nick - smiling red-haired young man with beard"
           />
           <div className="absolute -z-10 w-[600px] top-5 -right-80 sm:w-[700px] sm:right-[-500px] sm:top-20 md:w-[800px] md:top-5 md:right-[-500px] lg:top-0 lg:w-[1200px] max-w-[1600px] aspect-[1.53] bg-dark [background-image:url('/images/gradient.png')] bg-cover [mask-image:url('/images/background-mobile.png')] sm:[mask-image:url('/images/background-tablet.png')] lg:[mask-image:url('/images/background.png')] [mask-size:auto_100%] [mask-repeat:no-repeat]">
